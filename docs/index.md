@@ -14,20 +14,6 @@ description: Mastering the Marketplace is a learning library for building transa
 
 You have reached the the most comprehensive on-demand content available to help you develop transactable offers for the Microsoft commercial marketplace. This site features instructional videos, interactive hands-on labs, and sample code to provide a better understanding of the marketplace.
 
-## Live events!
-
-**Live and recorded webinars**
-
-Webinars occur almost daily and cover all things marketplace from technical implementations to accelerating your business. Not only can you attend live, but workshops are recorded for later viewing.
-
-[Register for webinars here!](https://aka.ms/MTMwebinars)
-
-**New 2024 workshops posted!**
-
-Learn from your favorite Mastering the Marketplace content authors in live virtual workshops focused on specific technologies and offer types. Workshops are a great opportunity to get from concept to reality in building your solutions for the marketplace.
-
-[Sign up for a workshop!](https://aka.ms/MTMworkshops)
-
 <div class="landing-tile" markdown="1">
  <span class="linkless-heading">Choose your offer type</span>
 
@@ -42,16 +28,21 @@ The included decision tree and supporting video will help you understand the dif
 <span class="linkless-heading">Mastering Partner Center</span>
 Partner Center is the web portal used to create and publish offers. Learn more about Partner Center in this ever-expanding multi-part course on how to use the portal to publish offers.
 
-[Take me to it](/Mastering-the-Marketplace/partner-center){ .md-button }
+[Take me to it](/Mastering-the-Marketplace/partner-center/){ .md-button }
 </div>
-
-
 
 <div class="landing-tile" markdown="1">
  <span class="linkless-heading">Mastering SaaS offers</span>
-This comprehensive content takes you through all you need to get a SaaS offer up and running. From landing pages to webhooks, the technical course will help you get your SaaS offer up and running in days instead of weeks. 
+Get started creating, publishing, and purchasing SaaS offers in the marketplace. This course is appropriate for anyone interested in SaaS offers..
 
 [Take me to it](/Mastering-the-Marketplace/saas){ .md-button }
+</div>
+
+<div class="landing-tile" markdown="1">
+ <span class="linkless-heading">Mastering SaaS offers (for developers)</span>
+This comprehensive technical content takes you through all you need to get a SaaS offer up and running. From landing pages to webhooks, the technical course will help you get your SaaS offer up and running in days instead of weeks.
+
+[Take me to it](/Mastering-the-Marketplace/saas/dev){ .md-button }
 </div>
 
 <div class="landing-tile" markdown="1">
@@ -59,6 +50,14 @@ This comprehensive content takes you through all you need to get a SaaS offer up
 Instead of building your own custom SaaS solution, consider using the SaaS Accelerator. The SaaS accelerator is a turnkey solution meeting the technical requirements for a SaaS offer and can be installed in 20 minutes.
 
 [Take me to it](/Mastering-the-Marketplace/saas-accelerator){ .md-button }
+</div>
+
+<div class="landing-tile" markdown="1">
+  <span class="linkless-heading">Mastering Professional Service offers</span>
+
+Professional Service offers in the marketplace enable ISVs to create transactable offers for their services supporting either custom or Microsoft software.
+
+[Take me to it](/Mastering-the-Marketplace/pro-services){ .md-button }
 </div>
 
 <div class="landing-tile" markdown="1">

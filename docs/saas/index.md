@@ -14,36 +14,18 @@ hide:
 ---
 
 <div class="sub-page-tile" markdown="1">
-  <span class="linkless-heading">SaaS offers in Partner Center</span>
-  Topics useful for those working with SaaS offers in Partner Center.
-
-[Take me to it](/Mastering-the-Marketplace/partner-center/saas){ .md-button }
-</div>
-
-<div class="sub-page-tile" markdown="1">
-  <span class="linkless-heading">Business-focused SaaS topics</span>
-  Content for the ISV and customer experiences in working with SaaS offers.
+  <span class="linkless-heading">Mastering SaaS offers</span>
+  
+  Introduces topics that you'll need to launch your SaaS offer successfully.
 
 [Take me to it](/Mastering-the-Marketplace/saas/general-topics){ .md-button }
 </div>
 
-<div class="sub-page-tile" markdown="1">
-  <span class="linkless-heading">Full SaaS technical course</span>
-  Complete on-demand course with video and hands-on labs.
-
-[Take me to it](/Mastering-the-Marketplace/saas/tech-topics){ .md-button }
-</div>
 
 <div class="sub-page-tile" markdown="1">
-  <span class="linkless-heading">SaaS Accelerator course</span>
-  Complete on-demand course with video and hands-on labs.
+  <span class="linkless-heading">SaaS offers for developers</span>
+  
+  Work your way through all of the technical aspects of creating SaaS offers.
 
-[Take me to it](/Mastering-the-Marketplace/saas-accelerator){ .md-button }
-</div>
-
-<div class="sub-page-tile" markdown="1">
-  <span class="linkless-heading">SaaS Learning Path</span>
-  Don't know where to start? Try the SaaS Learning Path.
-
-[Take me to it](/Mastering-the-Marketplace/learning-paths/saas-offers){ .md-button }
+[Take me to it](/Mastering-the-Marketplace/saas/dev){ .md-button }
 </div>
