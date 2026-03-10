@@ -21,7 +21,5 @@ Welcome to the Agent Christine repository, a collection of ready-to-use Copilot 
 
 - [Agent Christine Microsoft Copilot Link](https://microsoft.github.io/Agent-Christine/):  Agent Christine, delivered through Microsoft Copilot, empowers partners to navigate the Azure Marketplace independently. Built by blending partner data with Microsoft guidance, the agent provides persistent, AI-powered support while improving speed, accuracy, and confidence in critical tasks like onboarding, co-sell, and reconciliation.
 
-- [Agent Christine Microsoft M365 Agent Link](https://microsoft.github.io/Agent-Christine/):  Agent Christine, delivered through Microsoft 365 Copilot, empowers partners to navigate the Azure Marketplace independently and serves as a reference implementation. This version of the agent provides step-by-step guidance on how to design, configure, and deploy your own marketplace agent in Microsoft 365 Copilot—including connecting partner data sources, applying Microsoft guidance, defining prompts, and securing and testing the experience to improve speed, accuracy, and confidence in tasks like onboarding, co-sell, and reconciliation.
-
 ---
 
