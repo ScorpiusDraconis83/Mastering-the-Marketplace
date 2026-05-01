@@ -24,6 +24,7 @@ Topics include incentive programs, getting started with the marketplace, and how
 1. [What to expect in your marketplace selling journey](#what-to-expect-in-your-marketplace-selling-journey)
 1. [Marketplace incentive programs](#marketplace-incentive-programs)
 1. [Choosing your Azure Marketplace offer type](#choosing-your-azure-marketplace-offer-type)
+1. [Unlock business opportunities with the Microsoft commercial marketplace](#unlock-business-opportunities-with-the-microsoft-commercial-marketplace)
 
 ---
 
@@ -84,3 +85,9 @@ Primary considerations for choosing an offer type include deployment architectur
 - Virtual Machine offers
 - Container offers
 - Managed Application
+
+## Unlock business opportunities with the Microsoft commercial marketplace
+
+<a target="_blank" href="https://youtu.be/wSZ7nn3nMZE?si=OROkEszv0tSKPDmu">Video</a>
+
+Startups looking to accelerate growth need the right platforms and go-to-market strategies. In this session, Director of Marketplace Product Marketing Kristyn Maddox is joined by Dexter Hardy, President & CEO of ntegral, to share how the Microsoft commercial marketplace can help startups reach more customers, simplify sales, and unlock growth. Whether you’re new to the marketplace or looking to optimize your listing, this session provides key insights on getting started and maximizing your marketplace success.
