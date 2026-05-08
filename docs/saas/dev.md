@@ -12,17 +12,18 @@ hide:
   - toc
 ---
 
-Learn how to create custom SaaS offers for the marketplace. This course offers all you need to know to integrate successfully with the marketplace for SaaS applications.
+Learn how to create custom SaaS offers for the Marketplace. This course offers all you need to know to integrate successfully with the Marketplace for SaaS applications.
 
 In this learning path, you'll work your way through all of the technical aspects of creating SaaS offers. When you're done, you'll have the skills to:
 
 - Understand the elements of a complete SaaS offer.
 - Create a custom landing page for your customers.
-- Create and secure a webhook that listens for messages from the marketplace.
-- Interact with the marketplace SaaS fulfillment API.
+- Create and secure a webhook that listens for messages from the Marketplace.
+- Interact with the Marketplace SaaS fulfillment API.
 
-If you're a developer who is tasked with integrating your company's SaaS solution into the marketplace, this learning path is for you.
+If you're a developer who is tasked with integrating your company's SaaS solution into the Marketplace, this learning path is for you.
 
+For comprehensive, end-to-end resources about [“How to build and publish AI apps and agents to Microsoft Marketplace”](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish) visit Microsoft Learn.
 ---
 
 <!-- no toc -->
@@ -45,17 +46,17 @@ If you're a developer who is tasked with integrating your company's SaaS solutio
 
 ## SaaS Offer Overview
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-offer-overview-mp4">Video</a> | [PDF](./pdfs/01-SaaS-Offer-Overview.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-offer-overview-mp4">Video</a> | [PDF](./pdfs/01-SaaS-Offer-Overview.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish) 
 
 This video offers a technical overview of #Microsoft Azure Marketplace SaaS offers. It shows what you need to get started creating a SaaS offer of your own.
 
-- Microsoft commercial marketplace
+- Microsoft Marketplace
 - SaaS offer creation process
 - Pricing models
 
 ## Publishing a SaaS Offer
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/publishing-a-saas-offer-mp4">Video</a> | [PDF](./pdfs/03.1-Publishing-a-SaaS-Offer.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/publishing-a-saas-offer-mp4">Video</a> | [PDF](./pdfs/03.1-Publishing-a-SaaS-Offer.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 This detailed video presents the concepts of publishing a SaaS offer and then walks through the steps of doing so in Partner Center. 
 
@@ -66,7 +67,7 @@ This module goes all the way from creating an offer, to adding and plan, and fin
 
 ## SaaS Offer Technical Overview
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-offer-technical-overview-mp4">Video</a> | [PDF](./pdfs/04-SaaS-Offer-Technical-Overview.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-offer-technical-overview-mp4">Video</a> | [PDF](./pdfs/04-SaaS-Offer-Technical-Overview.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 Watch a deep technical overview of how SaaS offers work in the Microsoft Azure Marketplace. 
 
@@ -81,7 +82,7 @@ Learn how the API flows and interactions should work and how to build your landi
 
 ## Microsoft Entra ID configuration for your SaaS offer
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/microsoft-entra-id-configuration-for-your-saas-offer-mp4">Video</a> | [PDF](./pdfs/05-Azure-AD-Application-Registrations%20-%20v3.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/microsoft-entra-id-configuration-for-your-saas-offer-mp4">Video</a> | [PDF](./pdfs/05-Azure-AD-Application-Registrations%20-%20v3.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 In this module we look at a generic topic, application registrations for Entra ID. We’ll need this knowledge in upcoming modules. Application registrations give us a mechanism to authenticate to Entra ID, which is a requirement of the SaaS offer’s landing page, if you recall.
 
@@ -94,7 +95,7 @@ This video should help you get a jump start on configuring application registrat
 
 ## Using the SaaS Offer Fulfillment API
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/using-the-saas-offer-fulfillment-api-mp4">Video</a>
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/using-the-saas-offer-fulfillment-api-mp4">Video</a> | [PDF](./pdfs/06-Using-the-SaaS-Fulfillment-API.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 See the SaaS Fulfillment API in action as we send it through its paces using Postman. 
 
@@ -106,7 +107,7 @@ You’ll learn how to authenticate with Azure Active Directory, resolve and acti
 
 ## The SaaS Client Library for .NET
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-client-library-for-net-mp4">Video</a> | [PDF](./pdfs/07-The-SaaS-Client-Library-for-.NET.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-client-library-for-net-mp4">Video</a> | [PDF](./pdfs/07-The-SaaS-Client-Library-for-.NET.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 This module introduces the SaaS Client Library for .NET developer who want to work with the SaaS APIs at a level of abstraction above the REST level. 
 
@@ -118,7 +119,7 @@ The client library is a fully functional .NET package that you can install and u
 
 ## Building a Simple Landing Page in .NET
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/building-a-simple-landing-page-in-net-mp4">Video</a> | [PDF](./pdfs/08-simple-landing-page-dotnet.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/building-a-simple-landing-page-in-net-mp4">Video</a> | [PDF](./pdfs/08-simple-landing-page-dotnet.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 In this module we examine the elements of building a simple landing page and looking at how it works.  
 
@@ -131,7 +132,7 @@ The technology stack used is C#, ASP.NET MVC, and Razor views, just to keep it s
 
 ## Building a Simple SaaS Publisher Portal in .NET
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/building-a-simple-saas-publisher-portal-in-net-mp4">Video</a> | [PDF](./pdfs/09-simple-publisher-portal-dotnet.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/building-a-simple-saas-publisher-portal-in-net-mp4">Video</a> | [PDF](./pdfs/09-simple-publisher-portal-dotnet.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 This video shows a very simple example of a publisher’s portal used to manage SaaS subscriptions. The technology stack used is C#, ASP.NET MVC, and Razor views, just to keep it simple. We use the SaaS Client Library for .NET to build out our portal functionality.
 
@@ -141,7 +142,7 @@ This video shows a very simple example of a publisher’s portal used to manage 
 
 ## SaaS Webhook Overview
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-webhook-overview-mp4">Video</a> | [PDF](./pdfs/10.1-simple-webhook-overview.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-webhook-overview-mp4">Video</a> | [PDF](./pdfs/10.1-simple-webhook-overview.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 This technical overview of the SaaS webhook explains the following concepts of the SaaS offer webhook.
 
@@ -154,7 +155,7 @@ And more! Consider watching this video before moving on to the code-based module
 
 ## Implementing a Simple SaaS Webhook in .NET
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/implementing-a-simple-saas-webhook-in-net-mp4">Video</a>
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/implementing-a-simple-saas-webhook-in-net-mp4">Video</a> | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 This code-heavy module focuses on the fundamentals of implementing a SaaS offer webhook as an Azure function using .NET. Concepts are presented in such a way as to be architecture and technology stack agnostic.
 
@@ -166,7 +167,7 @@ This code-heavy module focuses on the fundamentals of implementing a SaaS offer 
 
 ## Securing your SaaS offer webhook
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/securing-your-saas-offer-webhook-mp4">Video</a> | [PDF](./pdfs/10.3-simple-webhook-dotnet-securing-v2.pdf) | [Code](./code/10.3-simple-webhook-dotnet-securing-v2.zip)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/securing-your-saas-offer-webhook-mp4">Video</a> | [PDF](./pdfs/10.3-simple-webhook-dotnet-securing-v2.pdf) | [Code](./code/10.3-simple-webhook-dotnet-securing-v2.zip) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 This security-focused module introduces several techniques for securing a SaaS offer webhook and then dives into implementations of the techniques presented. The two techniques covered are using an Azure Function as a webhook and using a Logic app. 
 
@@ -181,7 +182,7 @@ Although the Azure Function example is implemented in .NET, it is done so in a w
 
 ## SaaS Metered Billing Overview
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-metered-billing-overview-mp4">Video</a> | [PDF](./pdfs/11.1-saas-metered-billing-overview.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-metered-billing-overview-mp4">Video</a> | [PDF](./pdfs/11.1-saas-metered-billing-overview.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 This module presents the fundamentals of billing through the marketplace based on usage, or metered billing. 
 
@@ -192,7 +193,7 @@ It covers several areas of metered billing including the following.
 
 ## The SaaS Metered Billing API with REST
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-metered-billing-api-with-rest-mp4">Video</a>
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/saas-metered-billing-api-with-rest-mp4">Video</a> | [Lean more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 We exercise the SaaS Billing REST API using Postman to illustrate how the API works. 
 
@@ -201,3 +202,5 @@ You’ll learn how the inputs to each API event and how to use the results, and 
 ## Hands-on labs
 
 To perform the hands-on labs, visit [this GitHub repository](https://github.com/Azure/mtm-labs), which is home to the Mastering the Marketplace labs.
+
+Explore Microsoft Learn for end-to-end guidance about [“How to build and publish AI apps and agents to Microsoft Marketplace.”](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)

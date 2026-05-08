@@ -12,40 +12,40 @@ hide:
   - toc
 ---
 
-Insights about your marketplace solutions, customers, and subscriptions are all important parts of your Partner Center experience. 
+Insights about your Marketplace solutions, customers, and subscriptions are all important parts of your Partner Center experience. 
 
-This learning path introduces reporting in Partner Center and tours several reports, so that you can find what you need about your marketplace experience.
+This learning path introduces reporting in Partner Center and tours several reports, so that you can find what you need about your Marketplace experience.
 
 ---
 
 <!-- no toc -->
-1. [Commercial marketplace reporting in Partner Center](#commercial-marketplace-reporting-in-partner-center)
-1. [Marketplace insights dashboard in commercial marketplace analytics](#marketplace-insights-dashboard-in-commercial-marketplace-analytics)
-1. [Orders dashboard in commercial marketplace analytics](#orders-dashboard-in-commercial-marketplace-analytics)
+1. [Marketplace reporting in Partner Center](#commercial-marketplace-reporting-in-partner-center)
+1. [Marketplace insights dashboard in Marketplace analytics](#marketplace-insights-dashboard-in-commercial-marketplace-analytics)
+1. [Orders dashboard in Marketplace analytics](#orders-dashboard-in-commercial-marketplace-analytics)
 1. [Reporting and insights for multi-year SaaS offers](#reporting-and-insights-for-multi-year-saas-offers)
 1. [Programmatic access to reporting and insights](#programmatic-access-to-reporting-and-insights)
 
 ---
 
-## Commercial marketplace reporting in Partner Center
+## Marketplace reporting in Partner Center
 
-<a href="https://partner.microsoft.com/en-us/training/assets/detail/commercial-marketplace-reporting-in-partner-center-mp4" target="_blank">Video</a>
+<a href="https://partner.microsoft.com/en-us/training/assets/detail/commercial-marketplace-reporting-in-partner-center-mp4" target="_blank">Video</a> / Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
-This video walks through how to use the summary dashboard in commercial marketplace analytics to understand the performance of published marketplace offers through graphs, trends, and aggregate data.
+This video walks through how to use the summary dashboard in Marketplace analytics to understand the performance of published Marketplace offers through graphs, trends, and aggregate data.
 
 Subsequent videos in the Partner Center course will cover the other dashboards and reports that are available.
 
-## Marketplace insights dashboard in commercial marketplace analytics
+## Marketplace insights dashboard in Marketplace analytics
 
-<a href="https://partner.microsoft.com/en-us/training/assets/detail/marketplace-insights-dashboard-in-commercial-marketplace-analytics-mp4" target="_blank">Video</a>
+<a href="https://partner.microsoft.com/en-us/training/assets/detail/marketplace-insights-dashboard-in-commercial-marketplace-analytics-mp4" target="_blank">Video</a> | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
-If you're wondering about the functionality of the marketplace insights dashboard and how it works, this module provides an overview of the marketplace insights dashboard in commercial marketplace analytics in Partner Center.
+If you're wondering about the functionality of the Marketplace insights dashboard and how it works, this module provides an overview of the Marketplace insights dashboard in Marketplace analytics in Partner Center.
 
-## Orders dashboard in commercial marketplace analytics
+## Orders dashboard in Marketplace analytics
 
-<a href="https://partner.microsoft.com/en-us/training/assets/detail/orders-dashboard-in-commercial-marketplace-analytics-mp4" target="_blank">Video</a>
+<a href="https://partner.microsoft.com/en-us/training/assets/detail/orders-dashboard-in-commercial-marketplace-analytics-mp4" target="_blank">Video</a> [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
-The orders dashboard in commercial marketplace analytics in Partner Center provides insights into subscription trends and orders by offer. 
+The orders dashboard in Marketplace analytics in Partner Center provides insights into subscription trends and orders by offer. 
 
 This video takes you through the orders dashboard and how to use it effectively.
 

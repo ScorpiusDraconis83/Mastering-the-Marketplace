@@ -4,7 +4,7 @@ layout: default
 keywords: Azure Marketplace Partner Center
 comments: false
 
-title: Doing business in the marketplace
+title: Doing business in Marketplace
 
 hide:
   - toc
@@ -30,25 +30,25 @@ Topics include incentive programs, getting started with the marketplace, and how
 
 ## Azure Marketplace QuickStart
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/microsoft-azure-marketplace-quickstart-mp4">Video</a> | [PDF](./pdfs/01.0-amp-quickstart.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/microsoft-azure-marketplace-quickstart-mp4">Video</a> | [PDF](./pdfs/01.0-amp-quickstart.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
-New to the Azure Marketplace? This video is for you!
+New to the Microsoft Marketplace? This video is for you!
 
-You’ll learn what the Azure Marketplace is as well as explore various aspects of buying and selling on the marketplace. 
+You’ll learn what the Microsoft Marketplace is as well as explore various aspects of buying and selling on the marketplace. 
 
 This includes the various types of offers in the marketplace, the benefits you can take advantage of when transacting, and different ways to navigate through the experience.
 
-- Azure Marketplace overview 
+- Microsoft Marketplace overview 
 - Public offers 
 - Private plans 
 - Private offers 
 - MACC eligible offers 
-- The Private Azure Marketplace 
+- The Private Microsoft Marketplace 
 
 
 ## What to expect in your marketplace selling journey
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/what-to-expect-in-your-marketplace-selling-journey-mp4">Video</a> | [PDF](./pdfs/03.0-marketplace-journey.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/what-to-expect-in-your-marketplace-selling-journey-mp4">Video</a> | [PDF](./pdfs/03.0-marketplace-journey.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 This module walks through the stages you will experience when selling your solution on the marketplace. 
 
@@ -61,7 +61,7 @@ If you are curious what the journey looks like for marketplace sellers, this con
 
 ## Marketplace incentive programs
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/marketplace-incentive-programs-mp4">Video</a> | [PDF](./pdfs/02.1-marketplace-incentives.pdf)
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/marketplace-incentive-programs-mp4">Video</a> | [PDF](./pdfs/02.1-marketplace-incentives.pdf) | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 In this video, we dive deep into three incredible incentive programs offered by Microsoft Azure: Marketplace Rewards, Co-sell, and MACC (Microsoft Azure Consumption Commitment). 
 
@@ -75,7 +75,7 @@ Watch as we break down each program, providing you with a comprehensive understa
 
 ## Choosing your Azure Marketplace offer type
 
-<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/choosing-your-azure-marketplace-offer-type-mp4">Video</a>
+<a target="_blank" href="https://partner.microsoft.com/en-us/training/assets/detail/choosing-your-azure-marketplace-offer-type-mp4">Video</a> | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 If you're deciding which offer type you'll be creating, this module is for you. 
 
@@ -86,8 +86,8 @@ Primary considerations for choosing an offer type include deployment architectur
 - Container offers
 - Managed Application
 
-## Unlock business opportunities with the Microsoft commercial marketplace
+## Unlock business opportunities with the Microsoft Marketplace
 
-<a target="_blank" href="https://youtu.be/wSZ7nn3nMZE?si=OROkEszv0tSKPDmu">Video</a>
+<a target="_blank" href="https://youtu.be/wSZ7nn3nMZE?si=OROkEszv0tSKPDmu">Video</a> | Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 Startups looking to accelerate growth need the right platforms and go-to-market strategies. In this session, Director of Marketplace Product Marketing Kristyn Maddox is joined by Dexter Hardy, President & CEO of ntegral, to share how the Microsoft commercial marketplace can help startups reach more customers, simplify sales, and unlock growth. Whether you’re new to the marketplace or looking to optimize your listing, this session provides key insights on getting started and maximizing your marketplace success.

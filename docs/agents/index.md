@@ -12,6 +12,8 @@ Welcome to the Mastering the Marketplace Agent Repository, a collection of ready
 
 These AI agents streamline common tasks, provide guided assistance, and reduce the time partners spend searching for policies, processes, and requirements. Each agent is built from real partner scenarios and field-tested guidance to improve accuracy, efficiency, and self‑service. Whether you're onboarding, publishing offers, or troubleshooting marketplace workflows, this library gives you a head start. Explore, customize, and deploy the agents to accelerate your partner and customer success.
 
+Navigate Microsoft Learn for step-by-step resources on “[How to build and publish AI apps and agents to Microsoft Marketplace](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish).”
+
 ---
 
 ## Agent Christine

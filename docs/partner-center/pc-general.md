@@ -31,7 +31,7 @@ The content in this learning path is helpful to anyone who wants to use Partner 
 
 ## Getting started with Partner Center
 
-<a href="https://partner.microsoft.com/en-us/training/assets/detail/getting-started-with-partner-center-mp4" target="_blank">Video</a>
+<a href="https://partner.microsoft.com/en-us/training/assets/detail/getting-started-with-partner-center-mp4" target="_blank">Video</a> | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 The first thing that a marketplace publisher must do is register as a Microsoft partner and join the Microsoft commercial marketplace program. This provides access to marketplace offers in Partner Center, where partners work to publish their software solutions.
 
@@ -39,7 +39,7 @@ This module shows the most common partner registration flow, along with the firs
 
 ## Navigating Partner Center accounts and identifiers
 
-<a href="https://partner.microsoft.com/en-us/training/assets/detail/navigating-partner-center-accounts-and-identifiers-mp4" target="_blank">Video</a>
+<a href="https://partner.microsoft.com/en-us/training/assets/detail/navigating-partner-center-accounts-and-identifiers-mp4" target="_blank">Video</a> | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 
 Setting up and configuring Partner Center to best serve your organization's needs is paramount to both a good experience in the portal and ongoing involvement in the marketplace program. 
@@ -50,7 +50,7 @@ Understand PartnerOne accounts and identities, publishers and their associated I
 
 ## Verifying account details in Partner Center
 
-<a href="https://partner.microsoft.com/en-us/training/assets/detail/verifying-account-details-in-partner-center-mp4" target="_blank">Video</a>
+<a href="https://partner.microsoft.com/en-us/training/assets/detail/verifying-account-details-in-partner-center-mp4" target="_blank">Video</a> | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 
 When you enroll in a new partner program in Partner Center or change legal details in your profile, Microsoft verifies that the information that you provide is true and accurate. 
@@ -59,19 +59,19 @@ This video provides an overview of account verification in Partner Center and gu
 
 ## Setting up a tax profile in Partner Center
 
-<a href="https://partner.microsoft.com/en-us/training/assets/detail/setting-up-a-tax-profile-in-partner-center-mp4" target="_blank">Video</a>
+<a href="https://partner.microsoft.com/en-us/training/assets/detail/setting-up-a-tax-profile-in-partner-center-mp4" target="_blank">Video</a> | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 In this module, we cover how to set up a tax profile in Partner Center for the commercial marketplace program and discuss how to resolve common issues that might arise.
 
 ## Setting up a payout profile in Partner Center
 
-<a href="https://partner.microsoft.com/en-us/training/assets/detail/setting-up-a-payout-profile-in-partner-center-mp4" target="_blank">Video</a>
+<a href="https://partner.microsoft.com/en-us/training/assets/detail/setting-up-a-payout-profile-in-partner-center-mp4" target="_blank">Video</a> | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 In this module, we cover how to set up a payout profile in Partner Center for the commercial marketplace program and discuss how to resolve common issues that might arise.
 
 ## Role-based access control in Partner Center
 
-<a href="https://partner.microsoft.com/en-us/training/assets/detail/role-based-access-control-in-partner-center-mp4" target="_blank">Video</a>
+<a href="https://partner.microsoft.com/en-us/training/assets/detail/role-based-access-control-in-partner-center-mp4" target="_blank">Video</a> | [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 This video provides a comprehensive overview of how RBAC functions within Partner Center. 
 
