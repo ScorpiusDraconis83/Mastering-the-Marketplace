@@ -14,7 +14,7 @@ hide:
 
 There's a lot to Partner Center, so it can be helpful to have basic knowledge to help you get around in the portal. This learning path provides that knowledge.
 
-The content in this learning path is helpful to anyone who wants to use Partner Center to create and publish offers in the marketplace.
+The content in this learning path is helpful to anyone who wants to use Partner Center to create and publish offers in Marketplace.
 
 ---
 
