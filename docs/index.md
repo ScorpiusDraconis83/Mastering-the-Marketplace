@@ -14,7 +14,7 @@ description: Mastering the Marketplace is a learning library for building transa
 
 You have reached the most comprehensive on-demand content available to help you develop transactable offers for the Microsoft Marketplace. This site features instructional videos, interactive hands-on labs, and sample code to provide a better understanding of the marketplace.
 
-For in-depth end-to-end content about [“How to build and publish AI apps and agents to Microsoft Marketplace”] (https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish) visit Microsoft Learn.
+For in-depth end-to-end content about [“How to build and publish AI apps and agents to Microsoft Marketplace”](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish) visit Microsoft Learn.
 
 <div class="landing-tile" markdown="1">
  <span class="linkless-heading">Choose your offer type</span>

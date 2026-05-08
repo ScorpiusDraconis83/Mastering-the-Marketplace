@@ -29,7 +29,7 @@ This learning path introduces reporting in Partner Center and tours several repo
 
 ## Marketplace reporting in Partner Center
 
-<a href="https://partner.microsoft.com/en-us/training/assets/detail/commercial-marketplace-reporting-in-partner-center-mp4" target="_blank">Video</a> / Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
+<a href="https://partner.microsoft.com/en-us/training/assets/detail/commercial-marketplace-reporting-in-partner-center-mp4" target="_blank">Video</a> / [Learn more](https://learn.microsoft.com/en-us/partner-center/marketplace-offers/artificial-intelligence-apps-agents-publish)
 
 This video walks through how to use the summary dashboard in Marketplace analytics to understand the performance of published Marketplace offers through graphs, trends, and aggregate data.
 
